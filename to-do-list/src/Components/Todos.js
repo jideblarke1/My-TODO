@@ -3,7 +3,7 @@ import  { MdEdit } from "react-icons/md";
 import  { MdDelete } from "react-icons/md";
 
 export class Todos extends Component {
-    render() {
+    render() { 
         return (
             <div>
                 <div className="todo">
